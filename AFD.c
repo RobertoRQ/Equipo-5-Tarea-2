@@ -1,10 +1,4 @@
-/*###########################################
-# Nombre:                                   #
-#    Lopez Gamez Luis Antonio               #
-#    Rivera Perez Juan Eduardo              #
-# Lenguajes Formales y Automatas            #
-# Grupo: 4                                  #
-#############################################*/
+
 #include <stdio.h>
 #include <string.h>
 #include <locale.h>
